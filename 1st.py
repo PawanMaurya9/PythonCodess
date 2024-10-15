@@ -1,6 +1,6 @@
 s = 'python'
 for i in range(len(s)):
-    print(s,end=",")
+    print(i,end=",")
     s = 'a'
 a = 0
 while a < 26:
