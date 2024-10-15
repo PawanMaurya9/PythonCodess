@@ -1,5 +1,6 @@
-row = int(input("row: "))
-for i in range(1, row + 1):
-    for j in range(i):
-        print('*', end=" ")
-    print()
+def add():
+    a = 10
+    b = 20
+    return a+b
+c = add()
+print(c)

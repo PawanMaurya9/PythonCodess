@@ -1,6 +1,5 @@
-n = int(input('Enter the number: '))
-fact = 1
-for i in range(1,n+1):
-    fact = fact*i
-print(fact)
-#----------Factorial-----------#
+def add():
+    a=10
+    b=10
+    print(a+b)
+add()
